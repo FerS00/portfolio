@@ -12,7 +12,7 @@
 ---
 
 ### Overview
-> Each page documents what the system does, how it is structured and which engineering decisions shaped it. Source code, credentials, customer data and implementation details that would weaken a protection mechanism are deliberately left out. Public-source projects (OPERATIX, WLQuickGen, VantageEngine) are linked from the [GitHub profile](https://github.com/FerS00).
+> Each page documents what the system does, how it is structured and which engineering decisions shaped it. Source code, credentials, customer data and implementation details that would weaken a protection mechanism are deliberately left out. Public-source projects are listed below and linked from the [GitHub profile](https://github.com/FerS00).
 
 ---
 
@@ -26,6 +26,16 @@
 | [GestionServicioDPP](projects/gestion-servicio-dpp/README.md) | Security hardening of a legacy PHP app kept in daily use | `PHP 8.2` `PDO` `MariaDB` `Docker` | Phased modernization in progress |
 | [Firma-DPP](projects/firma-dpp/README.md) | Installation record + hardware inventory for serviced PCs | `C#` `.NET Framework 4.7.2` `WMI` | v1.0.0 internal |
 | [FirmaDigital](projects/firma-digital/README.md) | Config-driven signer/reader apps with authenticated encryption | `C#` `.NET 10` `AES-256-GCM` `PBKDF2` | Implemented |
+
+---
+
+### Public-Source Projects
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [Overseer](https://github.com/FerS00/Overseer) | Local, read-only real-time monitor for Claude Code and Codex with animated mascots | `Java 21` `Spring Boot 3.5` `Angular 22` `Node.js 24` `SSE` |
+| [OPERATIX](https://github.com/FerS00/OPERATIX) | Sales assistant that turns natural-language requests into validated transactions | `Python` `FastAPI` `LangGraph` `MySQL` `React` |
+| [WLQuickGen](https://github.com/FerS00/WLQuickGen) | Portable Win32 license generator for WinLicense-protected software | `C++17` `Win32 API` `CMake` |
+| [VantageEngine](https://github.com/FerS00/VantageEngine) | White-label commerce engine with tenant-scoped theme, content and feature flags (planning stage) | `Java 21` `Spring Modulith` `Angular` `MySQL` |
 
 ---
 
