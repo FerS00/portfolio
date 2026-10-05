@@ -32,6 +32,7 @@
 ### Public-Source Projects
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
+| [RelayForge](https://github.com/FerS00/RelayForge) | Self-hosted work console for Claude Code, Codex, and Antigravity with worktree isolation and human-approved delivery | `Python` `FastAPI` `React` `TypeScript` `SQLite` `Tailscale` |
 | [Overseer](https://github.com/FerS00/Overseer) | Local, read-only real-time monitor for Claude Code and Codex with animated mascots | `Java 21` `Spring Boot 3.5` `Angular 22` `Node.js 24` `SSE` |
 | [OPERATIX](https://github.com/FerS00/OPERATIX) | Sales assistant that turns natural-language requests into validated transactions | `Python` `FastAPI` `LangGraph` `MySQL` `React` |
 | [WLQuickGen](https://github.com/FerS00/WLQuickGen) | Portable Win32 license generator for WinLicense-protected software | `C++17` `Win32 API` `CMake` |
