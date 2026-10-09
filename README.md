@@ -1,4 +1,6 @@
-# Portfolio — FerS00
+# Portfolio — Fernando Morales
+**Web:** [fextracode.com](https://fextracode.com) · [Profile](https://github.com/FerS00) · [Case studies](#case-studies) · [Public projects](#public-source-projects) · [Contact](#contact)
+
 **Case studies of private-source systems: licensing, commerce back offices and Windows tooling**  
 *Problem, architecture, security model and trade-offs of each project, based on the real private repositories and without publishing proprietary code.*
 
@@ -53,6 +55,14 @@
 Depending on the project: licensing/activation mechanisms whose publication would make them easier to attack, a client's brand, catalog or operational configuration, data used during development, or integrations with commercial SDKs that cannot be redistributed.
 
 > Source code is private due to security and intellectual-property considerations.
+
+---
+
+### Contact
+- **Website:** [fextracode.com](https://fextracode.com)
+- **GitHub:** [@FerS00](https://github.com/FerS00)
+- **LinkedIn:** [Fernando Morales](https://linkedin.com/in/fernando-trinidad-morales-pe%C3%B1a-3632b2391)
+- **Email:** [moralespenafernando@gmail.com](mailto:moralespenafernando@gmail.com)
 
 ---
 
